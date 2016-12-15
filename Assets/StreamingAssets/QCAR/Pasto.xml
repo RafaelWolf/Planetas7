@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Borrego" size="25.000000 24.066002" />
+    <ImageTarget name="RelojGris" size="25.000000 32.857143" />
+    <ImageTarget name="RelojAm" size="25.000000 29.816513" />
+    <ImageTarget name="BrochaA" size="25.000000 24.436937" />
+    <ImageTarget name="Brocharara" size="25.000000 24.614962" />
+    <ImageTarget name="BrochaZ" size="25.000000 24.679829" />
+    <ImageTarget name="BrochaDesv" size="25.000000 24.679829" />
+    <ImageTarget name="14813721_1867427523543617_2005731528_n" size="25.000000 24.679829" />
+    <ImageTarget name="BrochaNueva" size="25.000000 24.847746" />
+    <ImageTarget name="ReifneriaTargetFinal" size="20.000000 13.022113" />
+    <ImageTarget name="gris" size="20.000000 13.333333" />
+    <ImageTarget name="rocascafes" size="20.000000 13.333333" />
+    <ImageTarget name="vuforiaMosaicos" size="20.000000 20.000000" />
+    <ImageTarget name="piedras" size="20.000000 14.029851" />
+    <ImageTarget name="PiedrasVuforia" size="20.000000 14.029851" />
+    <ImageTarget name="escomtarget" size="20.000000 13.636364" />
+    <ImageTarget name="target-biorefineria" size="20.000000 19.316406" />
+  </Tracking>
+</QCARConfig>
